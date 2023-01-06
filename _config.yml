@@ -28,7 +28,7 @@ description:           >
   Landing page for the amazing upcoming project that will contribute to solve the modern biodiversity challenges we face.
 
 # A shorter description for the sidebar.
-tagline:               Barbara Ran Nieto Dragsted!
+tagline:               Let's solve biodiversity together!
 
 # A list of keywords for your blog
 keywords:              []
@@ -44,7 +44,8 @@ author:
   name:                Mariano Lazarte
   email:               <pastizalgbf@gmail.com>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  linkedin:             <marianolazarte>
+  google:               pastizalgbf@gmail.com
 
 # Add links to the sidebar.
 menu:
@@ -88,12 +89,12 @@ remote_theme: hydecorp/hydejack@v9
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(163, 187, 152)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(251, 194, 82)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -231,7 +232,7 @@ hydejack:
   no_third_column:     false
 
   # Set to `true` if you don't like oversized headlines on large screens.
-  no_large_headings:   false
+  no_large_headings:   true
 
   # Set to `true` if you do not want to expose your resume and projects
   # in machine-readable formats.
