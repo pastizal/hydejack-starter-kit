@@ -20,18 +20,18 @@ baseurl:               '/p'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Pastizal
+title:                 TAIGA
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Landing page for the amazing upcoming project that will contribute to solve the modern biodiversity challenges we face.
+  Landing page for the upcoming project that will contribute to solve the modern biodiversity challenges we face.
 
 # A shorter description for the sidebar.
 tagline:               Let's solve biodiversity together!
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [biodiversity,ESG,sustainability,reporting,global biodiversity framework]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -65,6 +65,8 @@ legal:
     url:               /NOTICE/
   - title:             CHANGELOG
     url:               /CHANGELOG/
+  - title:             FORM
+    url:               /form-page.html/  
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2023. All rights reserved.
